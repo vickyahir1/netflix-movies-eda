@@ -1,0 +1,5 @@
+{
+  "name": "Netflix Movies EDA",
+  "description": "An exploratory data analysis (EDA) tool for Netflix movie datasets. Upload a CSV file to investigate patterns related to genres, popular actors, movie durations, and release trends to uncover interesting insights powered by Gemini.",
+  "requestFramePermissions": []
+}
